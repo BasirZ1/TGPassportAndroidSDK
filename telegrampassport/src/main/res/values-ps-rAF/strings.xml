@@ -1,3 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="PassportSDK_LogInWithTelegram">د تلګرام سره ننوتل</string>
+  <string name="PassportSDK_TelegramPassport">تلګرام پاسپورټ</string>
+  <string name="PassportSDK_DownloadTelegram">د **%s** ته ننوتلو لپاره تلګرام ته اړتیا لرئ. آیا غواړئ چې اوس یې نصب کړئ؟</string>
+  <string name="PassportSDK_OpenGooglePlay">ګوګل پلی پرانیزئ</string>
+  <string name="PassportSDK_Cancel">لغو کړئ</string>
 </resources>
